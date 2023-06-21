@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.0",
+    "scss": "^0.2.4",
+    "swiper": "^9.2.4"
+  }
+}
